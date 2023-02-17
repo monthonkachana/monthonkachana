@@ -37,3 +37,7 @@ Hello everyone, you can call me “Max”. I am a 4th-year student at Southeast 
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/https://www.facebook.com/max.xis.908" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/https://www.instagram.com/max.monthon9750/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/https://twitter.com/czamax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/https://github.com/monthonkachana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/monthonkachana&langs_count=10&title_color=000000&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
