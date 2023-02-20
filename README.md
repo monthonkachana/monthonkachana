@@ -37,5 +37,5 @@ Hello everyone, you can call me “Max”. I am a 4th-year student at Southeast 
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/https://www.facebook.com/max.xis.908" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/https://www.instagram.com/max.monthon9750/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/https://twitter.com/czamax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-href="[https://www.twitter.com/https://twitter.com/czamax](https://www.linkedin.com/in/monthon-kachana-10b096267/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
