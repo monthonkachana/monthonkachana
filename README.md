@@ -36,4 +36,4 @@ Hello everyone, you can call me “Max”. I am a 4th-year student at Southeast 
 
 ### Readme Stats
 
-![Anurag's GitHub stats](https://github.com/monthonkachana)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
